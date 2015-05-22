@@ -1,0 +1,1 @@
+GaExtractor = Npm.require('ga-extractor');
